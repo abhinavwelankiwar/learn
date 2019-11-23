@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/LIB/accessors-smart-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/android-json-0.0.20131108.vaadin1.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/apiguardian-api-1.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/asm-5.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/aspectjweaver-1.9.4.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/assertj-core-3.13.2.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/byte-buddy-1.10.1.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/byte-buddy-agent-1.10.1.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/classmate-1.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/classmate-1.5.0.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/dom4j-2.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/FastInfoset-1.2.16.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/h2-1.4.197.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/hibernate-commons-annotations-5.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/hibernate-core-5.4.6.Final.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/hibernate-validator-6.0.17.Final.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/HikariCP-3.4.1.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/httpclient-4.5.7.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/httpcore-4.4.10.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/istack-commons-runtime-3.0.8.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/jackson-annotations-2.10.0.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/jackson-core-2.10.0.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/jackson-databind-2.10.0.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/jackson-datatype-jdk8-2.10.0.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/jackson-datatype-jsr310-2.10.0.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/jackson-module-parameter-names-2.10.0.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/jakarta.activation-api-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/jakarta.annotation-api-1.3.5.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/jakarta.persistence-api-2.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/jakarta.transaction-api-1.3.3.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/jakarta.validation-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/jakarta.xml.bind-api-2.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/jandex-2.0.5.Final.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/javassist-3.24.0-GA.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/javax.annotation-api-1.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/javax.persistence-api-2.2.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/javax.transaction-api-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/jaxb-runtime-2.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/jboss-logging-3.3.2.Final.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/jboss-logging-3.4.1.Final.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/jjwt-0.9.0.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/jose4j-0.6.5.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/jsonassert-1.5.0.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/json-path-2.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/json-smart-2.3.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/jul-to-slf4j-1.7.28.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/junit-jupiter-5.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/junit-jupiter-api-5.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/junit-jupiter-engine-5.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/junit-jupiter-params-5.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/junit-platform-commons-1.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/junit-platform-engine-1.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/log4j-api-2.12.1.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/log4j-to-slf4j-2.12.1.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/logback-classic-1.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/logback-core-1.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/mockito-core-3.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/mockito-junit-jupiter-3.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/mysql-connector-java-8.0.18.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/objenesis-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/opentest4j-1.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/slf4j-api-1.7.28.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/snakeyaml-1.25.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/spring-aop-5.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/spring-aspects-5.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/spring-beans-5.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/spring-boot-2.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/spring-boot-autoconfigure-2.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/spring-boot-devtools-2.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/spring-boot-starter-2.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/spring-boot-starter-aop-2.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/spring-boot-starter-data-jpa-2.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/spring-boot-starter-jdbc-2.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/spring-boot-starter-json-2.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/spring-boot-starter-logging-2.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/spring-boot-starter-test-2.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/spring-boot-starter-tomcat-2.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/spring-boot-starter-validation-2.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/spring-boot-starter-web-2.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/spring-boot-test-2.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/spring-boot-test-autoconfigure-2.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/spring-context-5.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/spring-core-5.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/spring-data-commons-2.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/spring-data-jpa-2.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/spring-expression-5.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/spring-jcl-5.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/spring-jdbc-5.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/spring-orm-5.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/spring-security-config-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/spring-security-core-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/spring-security-web-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/spring-test-5.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/spring-tx-5.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/spring-web-5.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/spring-webmvc-5.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/stax-ex-1.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/tomcat-embed-core-9.0.14.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/tomcat-embed-el-9.0.14.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/tomcat-embed-websocket-9.0.14.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/txw2-2.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/validation-api-2.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="D:/LIB/xmlunit-core-2.6.3.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
